@@ -1,0 +1,1 @@
+# This file is meant to locate the best stocks from omxh25.csv to trade with the turnaroound tuesday strategy.
